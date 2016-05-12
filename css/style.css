@@ -1,0 +1,126 @@
+h1{
+    font-size: 100px;
+    margin-left: 10px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+  font-family: 'Candal', sans-serif}
+html {
+    display: block;
+}
+body {
+    font-family: Lora, serif;
+    display: block;
+    font-size: 20px;
+
+}
+.step1{
+    padding-left: 
+}
+
+.header {
+    width: 520px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 2px;
+    padding-bottom: 20px;
+    background-color: #ddd;
+    text-align: center;
+    padding-left: 300px;
+    margin-right: 300px;
+}
+head {
+    display: none;
+}
+div {
+    display: block;
+}
+meta {
+    display: none;
+}
+body {
+    font-family: Lora, serif;
+    display: block;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+ line-height : 1.5;
+
+}
+title {
+    display: none;
+}
+link {
+    display: none;
+}
+.headline-wrap {
+    width: 560px;
+    margin: 0 auto 50px auto;
+}
+
+.container, .headline-wrap {
+    width: 560px;
+    margin: 0 auto 50px auto;
+}
+.container p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+.byline {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 13px;
+    letter-spacing: 2px;
+}
+h2 {
+    font-size: 48px;
+    margin-top: 50px;
+    margin-bottom: 18px;
+}
+h2 {
+    display: block;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+ 
+}
+
+h3 {
+    font-style: italic;
+    font-size: 26px;
+    margin-bottom: 40px;
+    line-height: 1.3;
+    opacity: .5;
+}
+h3 {
+    display: block;
+    
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+ 
+}
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+ line-height : 1.5;
+}
+
+.logo-img{
+display: inline-block;
+}
+
+.logo{
+display: inline-block;
+}
+
+@media (max-width: 768px) {
+	body{
+	width: 100%;
+}
+}
